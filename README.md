@@ -1,2 +1,2 @@
 # cs162
-group learning 
+Here is the cs162 <Berkeley, Operating System>.
